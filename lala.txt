@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 siuhailah
 biancahdaiuhda
 hahahahahh
+=======
+siuhailahsiuh
+>>>>>>> parent of d6dd5cc... + txt
